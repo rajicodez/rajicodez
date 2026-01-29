@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajindra Ratnayake!
-- 👀 I’m interested in data science, business intelligence and building innovative solutions.
+- 👀 I’m interested in data science, artificial intelligence, machine learning, business intelligence and building innovative solutions.
 - 🌱 I’m currently pursuing a degree in Data Science.
 - 💞️ I’m looking to collaborate on data-driven projects, open-source tools and creative coding ideas.
 - 📫 How to reach me: www.linkedin.com/in/rajindra-ratnayake-70ab1b193
